@@ -5,7 +5,7 @@ This plugin is a fork of the [OpenID Connect Generic plugin](https://github.com/
 
 **Contributors:** [daggerhart](https://profiles.wordpress.org/daggerhart/), [tnolte](https://profiles.wordpress.org/tnolte/), [khelil](https://github.com/khelil)<br/>
 **Donate link:** http://www.daggerhart.com/  
-**Tags:** security, login, oauth2, openidconnect, apps, authentication, autologin, sso  
+**Tags:** france connect, security, login, oauth2, openidconnect, apps, authentication, autologin, sso  
 **Requires at least:** 5.0  
 **Tested up to:** 6.4.3  
 **Stable tag:** 3.10.0  
