@@ -1,0 +1,12 @@
+.openid-connect-login-button a {
+  display: block;
+  width: 209px;
+  height: 56px;
+  background-image: url(../images/franceconnect-btn-principal.svg);
+  background-size: contain;
+  margin: 0 auto;
+}
+
+.openid-connect-login-button a:hover {
+  background-image: url(../images/franceconnect-btn-principal-hover.svg);
+}
