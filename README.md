@@ -31,7 +31,8 @@ https://github.com/daggerhart/openid-connect-generic
 
 ### 1.0.0 ###
 
+* Add Role Mapping in plugin settings
 * Implement nonce param management
 * Design connexion button
 * Change request type to Authorization Code Flow
-* Fork
+* Fork from https://github.com/daggerhart/openid-connect-generic
