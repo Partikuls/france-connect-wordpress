@@ -1,4 +1,8 @@
 # France Connect Client #
+A simple client that provides SSO or opt-in authentication against France Connect, the French Gov OAuth2 Server implementation.
+
+This plugin is a fork of the [OpenID Connect Generic plugin](https://github.com/daggerhart/openid-connect-generic), which allows to authenticate users against a generic OAuth2 Server implementation.
+
 **Contributors:** [daggerhart](https://profiles.wordpress.org/daggerhart/), [tnolte](https://profiles.wordpress.org/tnolte/), [khelil](https://github.com/khelil)<br/>
 **Donate link:** http://www.daggerhart.com/  
 **Tags:** security, login, oauth2, openidconnect, apps, authentication, autologin, sso  
@@ -9,15 +13,9 @@
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
-A simple client that provides SSO or opt-in authentication against France Connect, the French Gov OAuth2 Server implementation.
-
 ## Description ##
 
 This plugin allows to authenticate users against France Connect OAuth2 API with Authorization Code Flow.
-
-This plugin is a fork of the OpenID Connect Generic plugin, which allows to authenticate users against a generic OAuth2 Server implementation.
-
-https://github.com/daggerhart/openid-connect-generic
 
 ## Installation ##
 
