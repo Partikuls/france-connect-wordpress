@@ -1,5 +1,5 @@
 # France Connect Client #
-**Contributors:** [daggerhart](https://profiles.wordpress.org/daggerhart/), [tnolte](https://profiles.wordpress.org/tnolte/), [khelil](https://github.com/khelil)
+**Contributors:** [daggerhart](https://profiles.wordpress.org/daggerhart/), [tnolte](https://profiles.wordpress.org/tnolte/), [khelil](https://github.com/khelil)<br/>
 **Donate link:** http://www.daggerhart.com/  
 **Tags:** security, login, oauth2, openidconnect, apps, authentication, autologin, sso  
 **Requires at least:** 5.0  
